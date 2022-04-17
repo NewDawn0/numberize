@@ -3,7 +3,7 @@ a tool for bash to display numbers in scientific and easier to read ways
 
 ## Installation
 ```
-git clone
+git clone https://github.com/NewDawn0/numberize.git
 cd numberize
 sudo cp numberize /usr/local/bin
 ```
